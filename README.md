@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2>Olá, Eu sou Gustavo! 👋 <a href="https://www.imagensanimadas.com/cat-computadores-56.htm"><img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0053.gif" border="0" alt="computador-imagem-animada-0053" /></a></h2>  
 
-<!--
-**GustHenrique/gusthenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu moro no Brasil, Distrito Federal. ⚡⚡
 
-Here are some ideas to get you started:
+Estou começando a minha carreira como desenvolvedor front-end. 🌱🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eu tenho estudado sobre HTML, CSS, GIT, JavaScript e Angular 13.
+
+Sou estudante de analise e desenvolvimento de sistemas no Centro Universitário de Brasília - Uniceub.
+
+I'm learning a English.
+
+<h2>Faça uma conexão comigo 😃</h2>
+https://www.linkedin.com/in/gustleles/
+
+
+
+
