@@ -10,7 +10,7 @@ Sou estudante de analise e desenvolvimento de sistemas no Centro Universitário 
 
 I'm learning a English.
 
-Faça uma conexão comigo  😃
+<h2>Faça uma conexão comigo  😃 </h2>
 
 Gustavo - (https://www.linkedin.com/in/gustleles/)
 
