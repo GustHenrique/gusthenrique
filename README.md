@@ -2,9 +2,9 @@
 
 Eu moro no Brasil, Distrito Federal. ⚡⚡
 
-Estou começando a minha carreira como desenvolvedor front-end. 🌱🌱
+Estou começando a minha carreira como desenvolvedor full-stack. 🌱🌱
 
-Eu tenho estudado sobre HTML, CSS, GIT, JavaScript e Angular 13.
+Eu tenho estudado sobre HTML, CSS, GIT, JavaScript, C#.
 
 Sou estudante de analise e desenvolvimento de sistemas no Centro Universitário de Brasília - Uniceub.
 
