@@ -4,7 +4,7 @@ Eu moro no Brasil, Distrito Federal. ⚡⚡
 
 Estou começando a minha carreira como desenvolvedor full-stack. 🌱🌱
 
- -Intermediário em python, scrum, html, css, crawler, angular.
+-Intermediário em python, scrum, html, css, crawler, angular.
  
 - Avançado em Node.JS
 
