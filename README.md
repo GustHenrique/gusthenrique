@@ -2,24 +2,22 @@
 
 Eu moro no Brasil, Distrito Federal. ⚡⚡
 
-Estou começando a minha carreira como desenvolvedor full-stack. 🌱🌱
+Sou desenvolvedor full-stack. 🌱🌱
 
--Intermediário em python, scrum, html, css, crawler, angular.
- 
-- Avançado em Node.JS
+Desenvolvedor Full-Stack | Blazor | ASP.NET | Angular | React | Vue.js
 
 - Resiliência, Adaptabilidade, Criatividade, Inteligência Emocional e Facilidade de Aprendizado.
 
-Sou estudante de analise e desenvolvimento de sistemas no Centro Universitário de Brasília - Uniceub.
 
-I'm learning a English.
+Desenvolvedor Full-Stack com habilidades especializadas em tecnologias .NET. 
+Graduado em Análise e Desenvolvimento de Software. 
+Pós-graduando em Desenvolvimento Full-Stack.
+Experiência avançada em ASP.NET MVC, .NET Core, API RESTful, Angular, Blazor, Vue.Js, React
+Facilidade de aprendizado, inteligência emocional e adaptabilidade.
+3
+#Desenvolvedor #FullStack #.NET #CSharp #ASPNET #MVC #NETCore #APIRestful #Angular #MySQL #SQLServer #Blazor #Vue #React
 
 <h2>Faça uma conexão comigo  😃 </h2>
 
 Gustavo - (https://www.linkedin.com/in/gustleles/)
-
-![](portfolio-foto.png)
-
-![](coding-skills.png)
-
 
