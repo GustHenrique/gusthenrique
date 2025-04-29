@@ -1,23 +1,23 @@
-<h2>Olá, Eu sou Gustavo! 👋 <a href="https://www.imagensanimadas.com/cat-computadores-56.htm"><img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0053.gif" border="0" alt="computador-imagem-animada-0053" /></a></h2>  
+## Sobre mim
 
-Eu moro no Brasil, Distrito Federal. ⚡⚡
+Olá! Me chamo Gustavo e sou desenvolvedor de software com mais de **4 anos de experiência** na área.
 
-Sou desenvolvedor full-stack. 🌱🌱
+Trabalho como **Desenvolvedor Full Stack**, apaixonado por construir soluções que fazem a diferença.  
+Busco sempre escrever um código limpo, escalável e que siga boas práticas como **SOLID** e **Clean Code**.
 
-Desenvolvedor Full-Stack | Blazor | ASP.NET | Angular | React | Vue.js
+### 🚀 Tecnologias que trabalho:
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+- ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+- ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+- ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+- ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 
-- Resiliência, Adaptabilidade, Criatividade, Inteligência Emocional e Facilidade de Aprendizado.
+### 🛠️ Algumas práticas e conceitos:
+- SOLID Principles
+- Clean Code
+- Clean Architecture
 
+### 📈 Em constante evolução e aprendizado!
 
-Desenvolvedor Full-Stack com habilidades especializadas em tecnologias .NET. 
-Graduado em Análise e Desenvolvimento de Software. 
-Pós-graduando em Desenvolvimento Full-Stack.
-Experiência avançada em ASP.NET MVC, .NET Core, API RESTful, Angular, Blazor, Vue.Js, React
-Facilidade de aprendizado, inteligência emocional e adaptabilidade.
-3
-#Desenvolvedor #FullStack #.NET #CSharp #ASPNET #MVC #NETCore #APIRestful #Angular #MySQL #SQLServer #Blazor #Vue #React
-
-<h2>Faça uma conexão comigo  😃 </h2>
-
-Gustavo - (https://www.linkedin.com/in/gustleles/)
-
+---
